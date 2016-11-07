@@ -1,4 +1,6 @@
 
+#Reads both the accel/magnetometer (LSM303) and temp/pressure sensor (BMP085) at the same time.
+
 import time
 from time import sleep
 
